@@ -37,7 +37,7 @@ This project focuses on predicting whether an individual is diabetic based on th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Diabetes-Prediction.git
+    git clone https://github.com/Tanjim-Islam/Diabetes-Prediction.git
     cd Diabetes-Prediction
     ```
 
