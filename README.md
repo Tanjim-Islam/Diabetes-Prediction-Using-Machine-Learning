@@ -38,7 +38,7 @@ This project focuses on predicting whether an individual is diabetic based on th
 
     ```bash
     git clone https://github.com/Tanjim-Islam/Diabetes-Prediction-Using-Machine-Learning.git
-    cd Diabetes-Prediction
+    cd Diabetes-Prediction-Using-Machine-Learning
     ```
 
 2. Install the necessary dependencies:
